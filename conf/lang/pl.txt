@@ -1,0 +1,19 @@
+POLSKI
+Wybierz jezyk
+Ladowanie
+Nacisnij [ESC], aby zakonczyc gre
+Tryb Gry
+Kampania
+Gra dowolna
+Brak
+Gracz
+SI
+Rozpocznij Gre
+Nacisnij [Spacja], aby rozpoczac gre
+Nacisnij [P], aby kontynuowac gre
+Wygral gracz
+Czerwony
+Zielony
+Niebieski
+Fioletowy
+Nacisnij [Esc], aby powrocic do menu

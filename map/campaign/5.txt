@@ -1,0 +1,4 @@
+
+#5 TOR PRZESZKOD
+Twoim zadaniem jest przetrwac 60s
+CZAS:60#SZYBKOSC:3#

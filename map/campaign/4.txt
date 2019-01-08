@@ -1,0 +1,4 @@
+
+#4 ZAPELNIAMY
+Twoim zadaniem jest wypelnic co najmniej 25 kratek - w grze nie pojawiaja sie bonusy - plansza sie zmniejsza
+DLUGOSC:25#SZYBKOSC:3#BB#PETLA#

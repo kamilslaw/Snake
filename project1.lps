@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="9"/>
+    <BuildModes Active="Default"/>
+    <Units Count="7">
+      <Unit0>
+        <Filename Value="project1.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="280"/>
+        <CursorPos Y="113"/>
+        <UsageCount Value="134"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="stale.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="52"/>
+        <CursorPos X="10" Y="52"/>
+        <UsageCount Value="133"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="gra.pas"/>
+        <IsPartOfProject Value="True"/>
+        <EditorIndex Value="-1"/>
+        <TopLine Value="78"/>
+        <CursorPos X="54" Y="600"/>
+        <UsageCount Value="111"/>
+      </Unit2>
+      <Unit3>
+        <Filename Value="lista.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="-1"/>
+        <CursorPos X="29" Y="2"/>
+        <FoldState Value=" T3Q0C44"/>
+        <UsageCount Value="89"/>
+      </Unit3>
+      <Unit4>
+        <Filename Value="JEDI-SDL Full\SDL_Gfx\Pas\sdl_gfx.pas"/>
+        <CursorPos X="2" Y="21"/>
+        <UsageCount Value="1"/>
+      </Unit4>
+      <Unit5>
+        <Filename Value="JEDI-SDL Full\SDL\Pas\sdl.pas"/>
+        <TopLine Value="1058"/>
+        <CursorPos X="3" Y="806"/>
+        <UsageCount Value="10"/>
+      </Unit5>
+      <Unit6>
+        <Filename Value="JEDI-SDL Full\SDL\Pas\sdl_ttf.pas"/>
+        <TopLine Value="403"/>
+        <CursorPos X="10" Y="421"/>
+        <UsageCount Value="8"/>
+      </Unit6>
+    </Units>
+    <General>
+      <ActiveWindowIndexAtStart Value="-1"/>
+    </General>
+    <JumpHistory HistoryIndex="-1"/>
+  </ProjectSession>
+</CONFIG>

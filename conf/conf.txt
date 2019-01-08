@@ -1,0 +1,11 @@
+﻿
+LANGUAGE:pl.txt
+FULLSCREEN:0
+ROUND:3
+LUCKY:1
+
+
+#LANGUAGE - nazwa pliku językowego
+#FULLSCREEN - 0/1 : nie/tak
+#ROUND - ilosc wygranych rund potrzebnych do zakonczenia gry
+#LUCKY - odstep czasowy (s.) pomiędzy kolejnymi przedmiotami

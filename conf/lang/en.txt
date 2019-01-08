@@ -1,0 +1,20 @@
+ENGLISH
+Select Language
+Loading
+Press [ESC] to exit
+Game Mode
+Campaign
+Free game
+NONE
+Player
+AI
+Start Game
+Press [Space] to start
+Press [P] to resume the game
+The winner is
+Red
+Green
+Blue
+Violet
+Press [Esc] to return to the menu
+

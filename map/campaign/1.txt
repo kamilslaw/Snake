@@ -1,0 +1,13 @@
+
+#1 ZACZYNAMY
+Pierwsza plansza i prosty cel - osiagnij dlugosc 30 kratek
+DLUGOSC:30#SZYBKOSC:3#
+
+Dostepne opcje:
+DLUGOSC:war					 //dlugosc weza do wygranej
+CZAS:war					 //czas przezycia potrzebny do wygranej
+ZAPELNIENIE:war              //gra konczy sie, gdy zostaje co najwyzej 'war' wolnych pol
+PETLA                        //zmniejszajaca sie plansza
+BB	                         //Bez Bonusow - tylko karma
+ZIELONY/NIEBIESKI/FIOLETOWY:war  //na planszy pojawia sie wybrany gracz (GRACZ - 1, AI - 2 ( w kampanii domyslnie czerwony to gracz, pozostale ai))   
+SZYBKOSC:war				 //szybkosc gry(1-3)

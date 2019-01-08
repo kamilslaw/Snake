@@ -1,0 +1,4 @@
+
+#2 Odliczanie
+Twoim zadaniem jest przetrwac na mapie przez 120s.
+CZAS:120#ZIELONY:2#SZYBKOSC:2#

@@ -1,0 +1,4 @@
+
+#6 GRANDE FINALE
+Twoim zadaniem jest osiagnac dlugosc 20 kratek na zmniejszajacej sie planszy
+DLUGOSC:20#SZYBKOSC:3#FIOLETOWY:2#BB#PETLA#

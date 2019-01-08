@@ -1,0 +1,19 @@
+DEUTSCH
+Wahlen Sie Sprache
+Laden
+Drucken Sie [ESC], um abzubrechen
+Game Mode
+Kampagne
+Jedes Spiel
+keiner
+SPIEL
+AI
+Spiel starten
+Drucken Sie die [Leertaste], um zu starten
+Drucken Sie [P], um das Spiel space
+Der Gewinner ist
+Rote
+Grun
+Blau
+Violett
+Drucken Sie [Esc], um zum Menu zuruckzukehren
